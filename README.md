@@ -13,6 +13,6 @@ Used standard scalar to normalize dataset.
 
 Dimensionality reduction done for plotting 2D graph.
 
-Kmeans and Hierarchical clustering algorithms implemented.
+KMeans and Hierarchical Clustering algorithms implemented.
 
 Plotted dendrogram.
